@@ -45,4 +45,4 @@ I'm a passionate frontend developer currently studying at Jensen Yrkeshögskola.
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=sherii190&color=brightgreen)
 
 <!-- A quote or fun fact -->
-> "The only way to do great work is to love what you do." - Steve Jobs
+> "The only way to do great work is to love what you do." - Steve Jobs 
