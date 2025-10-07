@@ -3,9 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/frontendutvecklare-shehryar/)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=flat-square&logo=google-chrome)]()
 
-<!-- Introduction -->
-I'm a passionate frontend developer currently studying at Jensen Yrkeshögskola. With 2 years of prior experience, I'm dedicated to creating user-friendly and visually appealing web applications. I love coding, hiking, and exploring new technologies, and I'm committed to continuous learning and growth in the field.
-
 <!-- My Stack -->
 
 <!-- My Stack -->
